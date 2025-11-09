@@ -1,5 +1,5 @@
 # ninja log v7
-1	9	1762544082884583755	/Users/c2/Documents/PersonalProjects/cpp/roadmap_sh/tmdb/cmake-build-debug/CMakeFiles/cmake.verify_globs	1680b6380a53e80a
+2	11	1762689355406747701	/Users/c2/Documents/PersonalProjects/cpp/roadmap_sh/tmdb/cmake-build-debug/CMakeFiles/cmake.verify_globs	1680b6380a53e80a
 10	93	1762544037172952072	src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/OptionBase.cpp.o	a8d0d9c6c8b7984b
 11	304	1762544037173737993	src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/cURLpp.cpp.o	d87c8b59e1cab13d
 10	306	1762544037172545695	src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Exception.cpp.o	b5f108397581144a
@@ -40,8 +40,8 @@
 1344	1681	1762544038506229119	src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/OptionSetter.cpp.o	fa6422342188cee1
 1411	1693	1762544038573254075	src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/SList.cpp.o	22a693f354b4dcbf
 12	57	1762544049853824916	src/vendor/curlpp-0.8.1/libcurlpp.a	7fefb572f169b557
-12	140	1762544082895543565	CMakeFiles/tmdb.dir/src/main.cpp.o	2388a81881d4f63
-140	175	1762544083023818488	tmdb	e2c15385bc13237d
-1	10	1762544130704469257	/Users/c2/Documents/PersonalProjects/cpp/roadmap_sh/tmdb/cmake-build-debug/CMakeFiles/cmake.verify_globs	1680b6380a53e80a
-16	577	1762544130718618377	CMakeFiles/tmdb.dir/src/main.cpp.o	2388a81881d4f63
-577	674	1762544131279856002	tmdb	e2c15385bc13237d
+15	916	1762689355420285682	CMakeFiles/tmdb.dir/src/main.cpp.o	2388a81881d4f63
+916	956	1762689356320797007	tmdb	e2c15385bc13237d
+3	13	1762689407221395097	/Users/c2/Documents/PersonalProjects/cpp/roadmap_sh/tmdb/cmake-build-debug/CMakeFiles/cmake.verify_globs	1680b6380a53e80a
+17	944	1762689407235425497	CMakeFiles/tmdb.dir/src/main.cpp.o	2388a81881d4f63
+944	1043	1762689408162759783	tmdb	e2c15385bc13237d
